@@ -7,4 +7,4 @@
 | Section                            | Chapter |                                                         Day | Do |
 | ---------------------------------- | ---- | ------------------------------------------------------------ | --- |
 | Section 1: Introduction & O/S Structures| [1. Introduction](https://julia0926.notion.site/1-Introduction-9b9cd69b21cf48a5bd226cc04d7a956e) <br />[2. Introduction & O/S](https://julia0926.notion.site/2-Introduction-O-S-01070c836bed4a088f58b821c23140a5) <br> [Quiz](https://notability.com/n/2M0ghAEySBAQpN0nuiQktp) | 22.07.15 | ✅ |
-| Section 2: Processes |  | 22.07.16~17 | 
+| Section 2: Processes |  [3. Processes (Part 1)](https://julia0926.notion.site/3-Processes-Part-1-56bdd97349804814b3445b9bb120e738)| 22.07.16~17 | ✅ 
