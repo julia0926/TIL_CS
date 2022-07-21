@@ -4,7 +4,7 @@
 
 | Chapter                            | Section |                                                         Day |
 | ---------------------------------- | ---- | ------------------------------------------------------------ | 
-| Chapter 1: 디자인 패턴과 프로그래밍 패러다임| [1. 디자인패턴](https://julia0926.notion.site/Section1-59c8456f68834bd089d84e96fd0bb9a7) <br />2. 프로그래밍 패러다임<br>  | 22.07.15 |
+| Chapter 1: 디자인 패턴과 프로그래밍 패러다임| [1. 디자인패턴 <br> 2. 프로그래밍 패러다임 ](https://julia0926.notion.site/Section1-59c8456f68834bd089d84e96fd0bb9a7)  | 22.07.15 <br> 22.07.21 |
 | Chapter 2: 네트워크 |  |  |
 | Chapter 3: 운영체제 | [1. 운영체제와 컴퓨터](https://julia0926.notion.site/Section-3-1-a48444009fac495eb7990413ae0db694) <br> [2. 메모리](https://julia0926.notion.site/Section-3-2-49bd6aab51924d0b986c09741e5af95f) | 22.07.18 <br> 22.07.20 |
 <br>
